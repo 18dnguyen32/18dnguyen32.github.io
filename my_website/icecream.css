@@ -1,0 +1,36 @@
+body{
+    /*font-family: "Comic Sans MS", fantasy;*/
+    text-align: center;
+    background-image: url("file:///MS04-82-LQHS/StudentRedirect$/18dnguyen32\My Documents/APCSP/my_website/images/home.jpg");
+    color: rgba(0,0,0,0.87);
+    background-color: #eee;
+    box-sizing: content-box;
+    font-family: 'Roboto',Helvetica,Arial,sans-serif;
+    font-size: 1.9rem;
+    font-weight: 400;
+    line-height: 9rem;
+    margin: 0;
+    min-width: 60rem;
+}
+h1{
+    font-size:1.3em;
+    text-align:center;
+}
+table{
+    margin-left:auto;
+    margin-right: auto;
+    text-align: left;
+    border-collapse: collapse;
+}
+tr{
+    border: 1px solid #ffffff;
+    text-align: center;
+    background-color: #9fb6cd;
+}
+th{
+    text-align: center;
+    color: #ffffff;
+    background-color: #003366
+}
+
+
