@@ -1,0 +1,87 @@
+body{
+    font-family: "Times New Roman", Times, serif; color: white;
+    background-image: url("images/web.png");
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+}
+a{
+    color: white;
+    font-size: 3em;
+    padding: 1em;
+}
+hr {
+    display: block;
+    color: blue;
+}
+
+#profile {
+    display: block;
+    height: 12em;
+    width: 15em;
+    margin-top: 4%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a:hover {
+    color: #808080;
+}
+.soucre:hover {
+    color: black;
+}
+
+table, td, th{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-collapse: collapse;
+    border: 1px solid white;
+    padding: 1em;
+    text-align: left;
+    color: white;
+    font-size: 1em;
+    margin: 7px auto;
+    border-style: solid;
+    border-spacing: 1em;
+}
+tr:hover {
+    background-color: #939e8f
+}
+
+h2{
+    text-align: center;
+    margin: 2em auto;
+}
+            
+p{  background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    margin: auto;
+    width: 30%;
+    border: none;
+    border-spacing: 1em;
+    padding: 2em;
+}
+.singleimage{
+    margin-top: 4%;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20em
+}
+#home{
+    text-align: center;
+    margin: auto;
+    margin-top: 1em;
+}
+.source{
+    background-color: rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    font-size: 1em;
+    text-align: center;
+}
+#footline{
+    margin-top: 15em;
+}
+#imagesource{
+    color: black;
+    text-align: center;
+}
