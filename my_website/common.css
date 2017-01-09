@@ -6,7 +6,7 @@ body{
     text-align: center;
     
 }
-a{
+a{  margin: auto;
     text-decoration: none;
     color: white;
     font-size: 3em;
